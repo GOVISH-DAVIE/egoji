@@ -1,6 +1,12 @@
 @extends('layouts.app')
 
 @section('content') 
+<style>
+
+.carousel img{
+    height: 90vh
+}
+</style>
 
 <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
@@ -16,21 +22,16 @@
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active" data-interval="1000">
-            <img src="https://web.archive.org/web/20220116054906im_/https://egojittc.ac.ke/assets/img/slides/DSC_0162.JPG" class="d-block w-100 height" alt="...">
+            <img src="img/DSC_0162.JPG" class="d-block w-100 height" alt="...">
             <div class="carousel-caption d-none d-md-block text-black-50">
                 <h5>Chief Principal with Luhya dance team 2019</h5>
 
             </div>
         </div>
-        <div class="carousel-item" data-interval="1000">
-            <img src="https://web.archive.org/web/20220116054906im_/https://egojittc.ac.ke/assets/img/slides/DSC_0210.JPG" class="d-block w-100 height" alt="...">
-            <div class="carousel-caption d-none d-md-block text-black-50">
-                <h5>Students</h5>
-            </div>
-        </div>
+       
 
         <div class="carousel-item" data-interval="1000">
-            <img src="https://web.archive.org/web/20220116054906im_/https://egojittc.ac.ke/assets/img/slides/DSC_0045.JPG" class="d-block w-100 height" alt="...">
+            <img src="img/DSC_0045.JPG" class="d-block w-100 height" alt="...">
             <div class="carousel-caption d-none d-md-block text-black-50">
                 <h5>Patrons of Clubs</h5>
             </div>
@@ -39,34 +40,34 @@
 
 
         <div class="carousel-item" data-interval="1000">
-            <img src="https://web.archive.org/web/20220116054906im_/https://egojittc.ac.ke/assets/img/1.JPG" class="d-block w-100 height" alt="...">
+            <img src="img/1.JPG" class="d-block w-100 height" alt="...">
             <div class="carousel-caption d-none d-md-block text-black-50">
                 <h5> School Scenary </h5>
             </div>
         </div>
         <div class="carousel-item" data-interval="1000">
-            <img src="https://web.archive.org/web/20220116054906im_/https://egojittc.ac.ke/assets/img/slides/DSC_0304.JPG" class="d-block w-100 height" alt="...">
+            <img src="img/DSC_0304.JPG" class="d-block w-100 height" alt="...">
             <div class="carousel-caption d-none d-md-block text-black-50">
                 <h5>School Monument</h5>
             </div>
         </div>
 
         <div class="carousel-item" data-interval="1000">
-            <img src="https://web.archive.org/web/20220116054906im_/https://egojittc.ac.ke/assets/img/slides/DSC_0217.JPG" class="d-block w-100 height" alt="...">
+            <img src="img/DSC_0217.JPG" class="d-block w-100 height" alt="...">
             <div class="carousel-caption d-none d-md-block text-black-50">
                 <h5>Egoji college sports enthusiasts</h5>
             </div>
         </div>
 
         <div class="carousel-item" data-interval="1000">
-            <img src="https://web.archive.org/web/20220116054906im_/https://egojittc.ac.ke/assets/img/slides/DSC_0159.JPG" class="d-block w-100 height" alt="...">
+            <img src="img/DSC_0159.JPG" class="d-block w-100 height" alt="...">
             <div class="carousel-caption d-none d-md-block text-black-50">
                 <h5>Chief Principal with play cast 2019</h5>
             </div>
         </div>
 
         <div class="carousel-item" data-interval="1000">
-            <img src="https://web.archive.org/web/20220116054906im_/https://egojittc.ac.ke/assets/img/slides/DSC_0126.JPG" class="d-block w-100 height" alt="...">
+            <img src="img/DSC_0126.JPG" class="d-block w-100 height" alt="...">
             <div class="carousel-caption d-none d-md-block text-black-50">
                 <h5>Finance Department</h5>
             </div>
