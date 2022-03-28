@@ -19,4 +19,11 @@ Route::get('/', function () {
 Route::get('/missionvison', function () {
     return view('mission');
 });
+Route::get('/courses', function () {
+    return view('courses');
+});
+ 
+Route::get('/council', function () {
+    return view('council');
+});
  

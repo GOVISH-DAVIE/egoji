@@ -65,13 +65,22 @@
                 <h5>Chief Principal with play cast 2019</h5>
             </div>
         </div>
-
         <div class="carousel-item" data-interval="1000">
-            <img src="img/DSC_0126.JPG" class="d-block w-100 height" alt="...">
+            <img src="img/DSC_0216.JPG" class="d-block w-100 height" alt="...">
             <div class="carousel-caption d-none d-md-block text-black-50">
-                <h5>Finance Department</h5>
+                <h5>Chief Principal with play cast 2019</h5>
             </div>
         </div>
+        <div class="carousel-item" data-interval="1000">
+            <img src="img/DSC_02.JPG" class="d-block w-100 height" alt="...">
+            <div class="carousel-caption d-none d-md-block text-black-50">
+                <h5>Chief Principal with play cast 2019</h5>
+            </div>
+        </div>
+        
+        
+
+       
 
 
     </div>
